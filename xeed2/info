@@ -1,31 +1,48 @@
-https://raw.githubusercontent.com/xeed-org/update-database/master/xeed2/34.jar</URL>
-<VERSION>34</VERSION>
-<EX_VERSION>1.0 RC4</EX_VERSION>
-<DATE>2011-05-31</DATE>
-<INFO>XEED is close to reaching v1.0.
-This release contains almost every planned function for 1.0.
+https://raw.githubusercontent.com/xeed-org/update-database/master/xeed2/beta/48.jar</URL>
+<VERSION>48</VERSION>
+<EX_VERSION>2.0.2</EX_VERSION>
+<DATE>2017-04-11</DATE>
+<INFO>First official stable XEED 2 release.
 
 Changelog:
-Build 34:
-+ Added sorting on character export.
-+ Added relations chart
-+ Added generation chart
+Build 48:
+> Changed backend for updates.
+> Changed backend for online templates. Upload disabled. Email template to me for publishing.
 
-Build 32:
-+ Player field
-+ Concept
-+ File association
-+ Verify ftp button
-+ Autosaver added
-+ Hotkeys
-+ Popup menu in main the main window
-- Name generator
-> Empty fields in nature, demeanor & attributes
-> Character exporter revamped
-> Updater revamped
-> Improved synchronization
-> Fixed updater bugs, it should now work properly.
-> Any many more bug fixes.
+Build 47:
+> Fix minor bugs.
 
-Please note that it might be quiet possible that the version you are running can't update due to a bug.
-If so, please download the latest version at: http://xeed.x10.mx/static/xeed/XEED.jar</INFO>
+Build 46:
+> Just updated to the new domain.
+
+Build 45:
+> Minor improvements.
+
+Build 44:
++ Added the option to export characters to PDF!
+> Simplified and unified the Template Manager/Downloader.
+
+Build 43:
+> The start-up procedure has been tweaked. It's now twice as fast!
+
+Build 42:
++ Added the option to export characters to a sleak HTML page.
+> Fixed a minor bug affecting character exporting.
+
+Build 41:
+> Hotfix! A bug that prevented saving after using extended sheets.
+> Other minor bugsfixes.
+
+Build 40:
++ Added first version of a genealogy graph!
+> Minor bugfixes
+> Updated XEED to new server
+
+Build 39:
+> Improved updater. Should now work on all operating systems.
+
+Build 38:
++ Added editing of items in template creator.
+> Fixed massive bugs in character converter.
+> Improved template downloader.
+</INFO>
