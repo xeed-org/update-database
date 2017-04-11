@@ -1,0 +1,15 @@
+<URL>http://xeed.x10.mx/static/xeed/updates/beta/36.jar</URL>
+<VERSION>36</VERSION>
+<EX_VERSION>2.0 Beta 2</EX_VERSION>
+<DATE>2012-06-10</DATE>
+<INFO>Latest beta of the 2.0 release!
+
+Changelog:
+Build 36:
++ Added Search field in main window. (Ctrl+F)
++ Added sorting for character exporter.
++ Implemented the upload feature in the template creator.
+> Fixed major bugs in the  character converter.
+> Fixed bug an annoying bug in the start-up routine for the updater.
+> Reverted back to Java 1.6. (Due to problems with 1.7 on the mac).
+</INFO>

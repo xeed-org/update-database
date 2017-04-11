@@ -1,0 +1,23 @@
+<URL>http://xeed.x10.mx/static/xeed/updates/beta/35.jar</URL>
+<VERSION>35</VERSION>
+<EX_VERSION>2.0 Beta 1</EX_VERSION>
+<DATE>2012-05-22</DATE>
+<INFO>XEED has recieved a major work over and is nearing 2.0.
+
+Changelog:
+Build 35:
++ Templates
++ Customisable Character Sheets
++ Beta updating
++ Images in character sheets
++ Character converter
++ Setting Overview
+- FTP
+- Diceroller
+- Lineage graph (for now)
+> Graphs reworked
+> Organiser renamed to Notes
+> Optimised performance in sycning
+> Character export reworked
+> Bugfixes
+</INFO>

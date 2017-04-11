@@ -1,0 +1,12 @@
+<URL>http://xeed.x10.mx/static/xeed/updates/beta/38.jar</URL>
+<VERSION>38</VERSION>
+<EX_VERSION>2.0 Beta 3</EX_VERSION>
+<DATE>2012-06-18</DATE>
+<INFO>Latest beta of the 2.0 release!
+
+Changelog:
+Build 38:
++ Added editing of items in template creator.
+> Fixed massive bugs in character converter.
+> Improved template downloader.
+</INFO>

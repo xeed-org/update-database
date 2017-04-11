@@ -1,0 +1,31 @@
+<URL>http://xeed.smoiz.se/static/xeed/updates/beta/43.jar</URL>
+<VERSION>43</VERSION>
+<EX_VERSION>2.0 Beta 6</EX_VERSION>
+<DATE>2012-08-22</DATE>
+<INFO>Latest beta of the 2.0 release!
+
+Changelog:
+Build 43:
+> The start-up procedure has been tweaked. It's is now twice as fast!
+
+Build 42:
++ Added the option to export characters to a sleak HTML page.
+> Fixed a minor bug affecting character exporting.
+
+Build 41:
+> Hotfix! A bug that prevented saving after using extended sheets.
+> Other minor bugsfixes.
+
+Build 40:
++ Added first version of a genealogy graph!
+> Minor bugfixes
+> Updated XEED to new server
+
+Build 39:
+> Improved updater. Should now work on all operating systems.
+
+Build 38:
++ Added editing of items in template creator.
+> Fixed massive bugs in character converter.
+> Improved template downloader.
+</INFO>

@@ -1,0 +1,20 @@
+<URL>http://xeed.smoiz.se/static/xeed/updates/beta/40.jar</URL>
+<VERSION>40</VERSION>
+<EX_VERSION>2.0 Beta 4</EX_VERSION>
+<DATE>2012-07-03</DATE>
+<INFO>Latest beta of the 2.0 release!
+
+Changelog:
+Build 40:
++ Added first version of a genealogy graph!
+> Minor bugfixes
+> Updated XEED to new server
+
+Build 39:
+> Improved updater. Should now work on all operating systems.
+
+Build 38:
++ Added editing of items in template creator.
+> Fixed massive bugs in character converter.
+> Improved template downloader.
+</INFO>
