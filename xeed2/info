@@ -1,10 +1,8 @@
-
 <URL>https://raw.githubusercontent.com/xeed-org/update-database/master/xeed2/49.jar</URL>
 <VERSION>49</VERSION>
 <EX_VERSION>2.1.0</EX_VERSION>
 <DATE>2017-06-05</DATE>
-<INFO>
-Changelog:
+<INFO>Changelog:
 Build 49:
 + Basic support for dTree graphs in HMTL export!
 
