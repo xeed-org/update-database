@@ -1,10 +1,13 @@
-<URL>https://raw.githubusercontent.com/xeed-org/update-database/master/xeed2/48.jar</URL>
-<VERSION>48</VERSION>
-<EX_VERSION>2.0.2</EX_VERSION>
-<DATE>2017-04-11</DATE>
-<INFO>First official stable XEED 2 release.
 
+<URL>https://raw.githubusercontent.com/xeed-org/update-database/master/xeed2/49.jar</URL>
+<VERSION>49</VERSION>
+<EX_VERSION>2.1.0</EX_VERSION>
+<DATE>2017-06-05</DATE>
+<INFO>
 Changelog:
+Build 49:
++ Basic support for dTree graphs in HMTL export!
+
 Build 48:
 > Changed backend for updates.
 > Changed backend for online templates. Upload disabled. Email template to me for publishing.
