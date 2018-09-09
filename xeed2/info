@@ -1,8 +1,11 @@
-<URL>https://raw.githubusercontent.com/xeed-org/update-database/master/xeed2/50.jar</URL>
-<VERSION>50</VERSION>
-<EX_VERSION>2.2.0</EX_VERSION>
-<DATE>2018-10-09</DATE>
+<URL>https://raw.githubusercontent.com/xeed-org/update-database/master/xeed2/51.jar</URL>
+<VERSION>51</VERSION>
+<EX_VERSION>2.3.0</EX_VERSION>
+<DATE>2018-09-09</DATE>
 <INFO>Changelog:
+Build 51:
++ New HTML template!
+
 Build 50:
 > Fixed proper embedding of images when exporting characters to HTML.
 
