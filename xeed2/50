@@ -2,8 +2,7 @@
 <VERSION>50</VERSION>
 <EX_VERSION>2.2.0</EX_VERSION>
 <DATE>2018-10-09</DATE>
-<INFO>
-Changelog:
+<INFO>Changelog:
 Build 50:
 > Fixed proper embedding of images when exporting characters to HTML.
 
