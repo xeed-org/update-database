@@ -1,8 +1,12 @@
-<URL>https://raw.githubusercontent.com/xeed-org/update-database/master/xeed2/51.jar</URL>
-<VERSION>51</VERSION>
-<EX_VERSION>2.3.0</EX_VERSION>
-<DATE>2018-09-09</DATE>
+<URL>https://raw.githubusercontent.com/xeed-org/update-database/master/xeed2/52.jar</URL>
+<VERSION>52</VERSION>
+<EX_VERSION>2.4.0</EX_VERSION>
+<DATE>2019-02-10</DATE>
 <INFO>Changelog:
+Build 52:
++ Add exporting characters to a dTree JSON.
+(dTree is a graphing library: https://github.com/ErikGartner/dTree)
+
 Build 51:
 + New HTML template!
 
