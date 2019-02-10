@@ -1,8 +1,11 @@
-<URL>https://raw.githubusercontent.com/xeed-org/update-database/master/xeed2/52.jar</URL>
-<VERSION>52</VERSION>
-<EX_VERSION>2.4.0</EX_VERSION>
+<URL>https://raw.githubusercontent.com/xeed-org/update-database/master/xeed2/53.jar</URL>
+<VERSION>53</VERSION>
+<EX_VERSION>2.4.1</EX_VERSION>
 <DATE>2019-02-10</DATE>
 <INFO>Changelog:
+Build 53:
+> Fixes missing node class from dTree data.
+
 Build 52:
 + Add exporting characters to a dTree JSON.
 (dTree is a graphing library: https://github.com/ErikGartner/dTree)
