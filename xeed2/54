@@ -1,0 +1,65 @@
+<URL>https://raw.githubusercontent.com/xeed-org/update-database/master/xeed2/54.jar</URL>
+<VERSION>54</VERSION>
+<EX_VERSION>2.4.2</EX_VERSION>
+<DATE>2019-02-13</DATE>
+<INFO>Changelog:
+Build 54:
+> Exporting to dTree JSON now writes images to file instead of base64 strings.
+
+Build 53:
+> Fixes missing node class from dTree data.
+
+Build 52:
++ Add exporting characters to a dTree JSON.
+(dTree is a graphing library: https://github.com/ErikGartner/dTree)
+
+Build 51:
++ New HTML template!
+
+Build 50:
+> Fixed proper embedding of images when exporting characters to HTML.
+
+Build 49:
++ Basic support for dTree graphs in HMTL export!
+
+Build 48:
+> Changed backend for updates.
+> Changed backend for online templates. Upload disabled. Email template to me for publishing.
+
+Build 47:
+> Fix minor bugs.
+
+Build 46:
+> Just updated to the new domain.
+
+Build 45:
+> Minor improvements.
+
+Build 44:
++ Added the option to export characters to PDF!
+> Simplified and unified the Template Manager/Downloader.
+
+Build 43:
+> The start-up procedure has been tweaked. It's now twice as fast!
+
+Build 42:
++ Added the option to export characters to a sleak HTML page.
+> Fixed a minor bug affecting character exporting.
+
+Build 41:
+> Hotfix! A bug that prevented saving after using extended sheets.
+> Other minor bugsfixes.
+
+Build 40:
++ Added first version of a genealogy graph!
+> Minor bugfixes
+> Updated XEED to new server
+
+Build 39:
+> Improved updater. Should now work on all operating systems.
+
+Build 38:
++ Added editing of items in template creator.
+> Fixed massive bugs in character converter.
+> Improved template downloader.
+</INFO>
