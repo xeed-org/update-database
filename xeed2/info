@@ -1,8 +1,11 @@
-<URL>https://raw.githubusercontent.com/xeed-org/update-database/master/xeed2/53.jar</URL>
-<VERSION>53</VERSION>
-<EX_VERSION>2.4.1</EX_VERSION>
-<DATE>2019-02-10</DATE>
+<URL>https://raw.githubusercontent.com/xeed-org/update-database/master/xeed2/54.jar</URL>
+<VERSION>54</VERSION>
+<EX_VERSION>2.4.2</EX_VERSION>
+<DATE>2019-02-13</DATE>
 <INFO>Changelog:
+Build 54:
+> Exporting to dTree JSON now writes images to file instead of base64 strings.
+
 Build 53:
 > Fixes missing node class from dTree data.
 
